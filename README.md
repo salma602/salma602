@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/salma602/salma602/main/assets/profile.gif" width="30%">
 
-# Hi There, I'm Salma Fawzy Ahmed  
+# Hi There, I'm Salma Fawzy (Flutter Developer)
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 🎓 A passionate **Computer and Information Sciences** student who loves turning ideas into real-world solutions.  
@@ -54,22 +54,12 @@
 
 ---
 ## 🚀 Featured Projects
-- [**Gym Management System**](https://github.com/sandrahany00/Gym_Management_System) 🏋️‍♀️  
-  Desktop app for managing gym accounts, workouts, and reports.  
-
-- **Airline Passenger Satisfaction Prediction** ✈️  
-  ML models (Logistic Regression, LightGBM, CatBoost, Random Forest) integrated with a PyQt5 GUI.  
-
-- [**Earth Eye (Flutter App)**](https://github.com/salma602/Earth_Eye) 🌍  
-  Cross-platform mobile app built with Flutter & Dart that lets users explore countries worldwide.  
-  Features include real-time data from the REST Countries API, Google Maps integration,  
-  search functionality, and a responsive UI for Android & iOS.  
-
-- [**WATCH IT System (Java OOP)**](https://github.com/Fady2024/Watch_it) 🎬  
-  A multimedia platform for movies & series with secure authentication, subscription management,  
-  favorites, top-rated & trending pages, and interactive video playback.  
-  Includes robust **OOP design** with core classes (`Show`, `Movie`, `Series`, `Calculate_Rating`)  
-  and a user-friendly **admin panel** for content management.  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Gym Management System**](https://github.com/sandrahany00/Gym_Management_System) 🏋️‍♀️ | Desktop app for managing gym accounts, workouts, and reports. | `Java` `OOP` |
+| [**Airline Passenger Satisfaction**] ✈️ | ML models integrated with a PyQt5 GUI. | `Python` `ML` `PyQt5` |
+| [**Earth Eye (Flutter)**](https://github.com/salma602/Earth_Eye) 🌍 | Explore countries worldwide with real-time data & maps. | `Flutter` `Dart` `REST API` |
+| [**WATCH IT System (Java OOP)**](https://github.com/Fady2024/Watch_it) 🎬 | Multimedia platform with movies, subscriptions & admin tools. | `Java` `OOP` |
 
 
 ---
@@ -85,11 +75,13 @@
 </a>
 
 ---
-
 ## ⚡ Fun Facts
-- 💡 I enjoy building UIs that balance simplicity & functionality.  
+- 💡 Love creating UIs that balance simplicity & functionality.  
 - 🌍 Passionate about tech communities & open-source.  
-- ☕ Powered by **Salboon & curiosity**!  
+- ☕ Salboon + Curiosity = Productivity.  
+- 🎨 Sometimes I play around with Blender for 3D fun.  
 
 ---
 ✨ *Keep Learning • Keep Building • Keep Growing* ✨
+> *"Code is like humor. When you have to explain it, it’s bad."* 😄
+

@@ -1,5 +1,5 @@
 # Hi There, I'm Salma Fawzy (Flutter Developer) 
-<img src="https://raw.githubusercontent.com/salma602/salma602/main/assets/cat.jpg" width="160" height="160" align="right" style="border-radius:50%; border: 3px solid #FF1493; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+<img src="https://raw.githubusercontent.com/salma602/salma602/main/assets/cat.jpg" width="250" height="250" align="right" style="border-radius:50%; border: 3px solid #FF1493; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
 
 
 

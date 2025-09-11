@@ -1,7 +1,7 @@
-<img align="right" src="https://raw.githubusercontent.com/salma602/salma602/main/assets/profile.gif" width="30%">
+# Hi There, I'm Salma Fawzy (Flutter Developer) 
+<img src="https://raw.githubusercontent.com/salma602/salma602/main/assets/cat.jpg" width="160" height="160" align="right" style="border-radius:50%; border: 3px solid #FF1493; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
 
-# Hi There, I'm Salma Fawzy (Flutter Developer)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 
 🎓 A passionate **Computer and Information Sciences** student who loves turning ideas into real-world solutions.  
 💡 My main interests are in **Mobile Development**, **Artificial Intelligence**, and **Computer Vision**.  

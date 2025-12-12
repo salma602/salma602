@@ -3,29 +3,29 @@
 
 
 
-🎓 A passionate **Computer and Information Sciences** student who loves turning ideas into real-world solutions.  
-💡 My main interests are in **Mobile Development**, **Artificial Intelligence**, and **Computer Vision**.  
-🚀 Always eager to learn, experiment, and contribute to meaningful projects.  
+ A passionate **Computer and Information Sciences** student who loves turning ideas into real-world solutions.  
+ My main interests are in **Mobile Development**, **Artificial Intelligence**, and **Computer Vision**.  
+ Always eager to learn, experiment, and contribute to meaningful projects.  
 
 ---
 
-## 🔭 Currently Exploring
-- 🌐 **Flutter & Dart** → Cross-platform mobile development  
-- 🤖 **Python AI/ML stack** → NumPy, Pandas, Matplotlib, Scikit-learn, LightGBM, CatBoost  
-- 📊 **Data Visualization & Analysis**  
-- 💻 **System Integration & API Development**  
+##  Currently Exploring
+-  **Flutter & Dart** → Cross-platform mobile development  
+-  **Python AI/ML stack** → NumPy, Pandas, Matplotlib, Scikit-learn, LightGBM, CatBoost  
+-  **Data Visualization & Analysis**  
+-  **System Integration & API Development**  
 
 ---
 
-## 🎯 Future Goals
-- Build impactful **AI-powered applications** 🤝  
-- Deepen expertise in **Machine Learning & Deep Learning** 🧠  
-- Contribute to the **open-source community** 🌍  
-- Gain more **hands-on industry experience** 💼  
+##  Future Goals
+- Build impactful **AI-powered applications**
+- Deepen expertise in **Machine Learning & Deep Learning** 
+- Contribute to the **open-source community** 
+- Gain more **hands-on industry experience**   
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 <p>
 <a href="https://www.linkedin.com/in/salma-fawzy-905a44288/"><img 
     src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠 Technologies and Tools
+##  Technologies and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -53,7 +53,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
-## 🚀 Featured Projects
+##  Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Gym Management System**](https://github.com/sandrahany00/Gym_Management_System) 🏋️‍♀️ | Desktop app for managing gym accounts, workouts, and reports. | `Java` `OOP` |
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salma602&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salma602&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salma602&theme=radical)  
@@ -75,13 +75,13 @@
 </a>
 
 ---
-## ⚡ Fun Facts
-- 💡 Love creating UIs that balance simplicity & functionality.  
-- 🌍 Passionate about tech communities & open-source.  
-- ☕ Salboon + Curiosity = Productivity.  
-- 🎨 Sometimes I play around with Blender for 3D fun.  
+##  Fun Facts
+-  Love creating UIs that balance simplicity & functionality.  
+-  Passionate about tech communities & open-source.  
+-  Salboon + Curiosity = Productivity.  
+-  Sometimes I play around with Blender for 3D fun.  
 
 ---
-✨ *Keep Learning • Keep Building • Keep Growing* ✨
+ *Keep Learning • Keep Building • Keep Growing* 
 > *"Code is like humor. When you have to explain it, it’s bad."* 😄
 

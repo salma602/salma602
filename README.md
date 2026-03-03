@@ -1,9 +1,9 @@
-# Hi There, I'm Salma Fawzy (Flutter Developer) 
+# Hi There, I'm Salma Fawzy 
 
 
 
  A passionate **Computer and Information Sciences** student who loves turning ideas into real-world solutions.  
- My main interests are in **Mobile Development**, **Artificial Intelligence**, and **Computer Vision**.  
+ My main interests are in **Artificial Intelligence**, and **Computer Vision**.  
  Always eager to learn, experiment, and contribute to meaningful projects.  
 
 ---
